@@ -1,0 +1,45 @@
+body {background-image:url(./download.jfif) ;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+    .box {
+        border-radius: 50px;
+        border: 5px double rgb(255, 255, 255 / 50%);
+        color: #e70b0b;
+        background-color:rgb(255, 0, 0, 0.2) ;
+        max-width: 500px;
+        margin-inline: auto;
+        text-align: center;
+        font-family: sans-serif;
+        padding-block: 20px;
+        box-shadow: 1px 1px 2px rgb(255, 255, 255 / 30%);
+        overflow-x: auto;
+    }
+    h4 {
+        font-size: 15px;
+        letter-spacing: 8px;
+        line-height: 25px;
+    }
+    
+    h1 {
+        font-size: 50px;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        word-spacing: 10px;
+        line-height: 90px;
+    } 
+
+    h3{
+        font-size: 15px;
+        letter-spacing: 8px;
+        line-height: 25px;
+    }
+
+    span {
+        margin: 10px 3px 20px 5px;
+        margin-inline: 2px;
+        margin-block: 5px;
+
+padding: 10px 3px 20px 5px;
+padding-inline: 2px;
+padding-block: 5px;    }
